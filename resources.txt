@@ -1,0 +1,5 @@
+Convolutional layer Code and working 
+https://towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5
+https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
+
+
